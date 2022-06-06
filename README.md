@@ -1,7 +1,5 @@
 ## Welcome to BurwitzBlagger's Github Pages page
-
-heyyyyy
-
+lol
 
 
 
@@ -50,5 +48,3 @@ heyyyyy
 
 
 
-
-i like squiwwel squir
